@@ -1,5 +1,12 @@
 # Ultra-Processed Food Detector (planned)
 
+![Ultra-Processed Food Detector](assets/banner.svg)
+
+[![awesome-ml-systems](https://img.shields.io/badge/awesome--ml--systems-%23004-34d399?labelColor=0b0e11&style=flat)](https://github.com/MagicLex/awesome-ml-systems)
+[![Hopsworks](https://img.shields.io/badge/built_on-Hopsworks-1CB182?labelColor=0b0e11&style=flat)](https://www.hopsworks.ai/)
+
+One small ML system per day on Hopsworks.
+
 Predict whether a food product is NOVA-4 ultra-processed from its ingredient list
 alone (TF-IDF over ingredients text).
 
